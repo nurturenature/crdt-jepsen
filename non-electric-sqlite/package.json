@@ -10,7 +10,7 @@
     "app:dev": "nodemon src/index.ts"
   },
   "dependencies": {
-    "better-sqlite3": "^10.0.0",
+    "better-sqlite3": "^11.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
   },
