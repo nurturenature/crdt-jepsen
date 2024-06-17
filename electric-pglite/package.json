@@ -21,7 +21,7 @@
     "electric-sql": "canary",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "ws": "^8.17.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@databases/pg": "5.5.0",
